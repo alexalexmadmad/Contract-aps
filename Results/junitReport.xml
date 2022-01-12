@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestEksamen" tests="1" time="0.075">
+  <testsuite name="https://localhost:44387/1" id="ca573c36-868f-4739-aa1e-73acdd2b41ac" timestamp="2022-01-02T10:40:09.750Z" tests="2" failures="0" errors="0" time="0.075">
+    <testcase name="Does this work" time="0.075" classname="TestEksamen"/>
+    <testcase name="Response has correct Id" time="0.075" classname="TestEksamen"/>
+  </testsuite>
+</testsuites>

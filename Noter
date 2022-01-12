@@ -1,0 +1,5 @@
+Add-Migration contractIt -Context MålingContext -Project ElmålingsSystem.DAL
+Update-Database -Context MålingContext -Project ElmålingsSystem.DAL
+
+Add-Migration contractItUsers -Context ApplicationDbContext -Project ElmålingsSystem.DAL
+Update-Database -Context ApplicationDbContext -Project ElmålingsSystem.DAL
